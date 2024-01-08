@@ -105,3 +105,41 @@ html, body{
   border: none;
   border-radius: 10px;
 }
+.offer{
+  margin: 0 100px;
+  gap: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+
+.left h5{
+  color: #00C853;
+}
+.left h1{
+  font-weight: 900;
+}
+.left p{
+  font-size: 10px;
+  font-weight: 200;
+}
+.midle > img{
+  padding: 20px;
+  max-width: 200px;
+  border: 10px solid #00E676;
+  border-radius: 100%
+}
+.right{
+  padding-left: 30px;
+}
+.right h2{
+  color: #00C853;
+}
+.right p {
+  font-size: 10px;
+  font-weight: 200;
+}
+.right img{
+  max-width: 70px;
+}
