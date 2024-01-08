@@ -1,5 +1,86 @@
-.banner{
-  background-color: #555FD057;
- background-image: url("")
- 
+*{
+  font-family: 'Martel', serif;
+/* font-family: 'Source Code Pro', monospace; */
+}
+html, body{
+  height: 100%;
+  margin: 0;
+}
+.img-banner{
+  margin: 100px;
+  height: 400px;
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0)),  url('/img/Banner-Image.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.ban-txt{
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  
+}
+.ban-txt > h3, h1{
+  font-weight: 900;
+  line-height: .98
+}
+.off{
+  font-family: 'Source Code Pro', monospace;
+  text-align: center;
+  line-height: .9;
+}
+.off > h1{
+  font-weight: 900;
+  font-size: 50px;
+  color: #00C853;
+  padding-bottom: 10px;
+}
+.off > h4{
+  color: #00C853;
+}
+.off > img{
+  
+  width: 60%;
+}
+.victor{
+  margin: 100px;
+  height: 400px;
+  background: linear-gradient( to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0)),  url('/img/Vectorrr.png');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+}
+.vic-txt{
+  color: white;
+  padding-left: 50px;
+  
+}
+.vic-txt > h1{
+  font-size: 40px;
+  font-weight: 900;
+  line-height: .7;
+}
+.vic-txt > p{
+  font-size: 10px;
+  font-weight: 200;
+}
+.vic-img > img{
+ max-height: 300px;
+ /* width: 70%; */
+ padding-right: 50px;
+}
+.vic-txt > button{
+  padding: 15px 30px;
+  background: transparent;
+  border: 0;
+  color: white;
+  font-weight: 900;
 }
