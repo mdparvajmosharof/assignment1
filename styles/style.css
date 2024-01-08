@@ -143,3 +143,140 @@ html, body{
 .right img{
   max-width: 70px;
 }
+.off50{
+  margin: 100px 100px 50px;
+  text-align: center;
+}
+.off50 > h1{
+  font-weight: 900;
+  
+}
+.off50 span{
+  font-size: 45px;
+  color: #00C853;
+}
+
+.off50-sct{
+  margin: 0 100px;
+  height: 400px;
+  position: relative;
+  
+}
+.off50-1{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.rd-grp{
+  
+  position: relative;
+}
+.rd-grl{
+  width: 250px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.rd-50{
+  width: 100px;
+  position: absolute;
+  top: 30%;
+  left: -50px;
+}
+.off50-2{
+  position: absolute;
+  left: 0;
+  bottom: 10px;
+}
+
+.img-grp{
+  position: relative;
+}
+.sld-rd{
+  width: 100%;
+  position: relative;
+  
+}
+.baji{
+  height: 230%;
+  position: absolute;
+  left: 0px;
+  bottom: 40px;
+}
+.portfolio{
+  margin: 100px;
+  
+}
+.portfolio  h4{
+  color: #00C853;
+}
+.portfolio  h1{
+  font-weight: 900;
+  
+}
+.prt-grp{
+  display: flex;
+  gap: 20px;
+}
+.prt-grp img{
+  margin: 12px 0;
+  width : 250px;
+}
+.sub{
+  margin: 100px;
+  padding: 50px;
+  background: #9AFF9E6E;
+  border-radius: 10px;
+  text-align: center;
+}
+.sub p{
+  padding-bottom: 25px;
+}
+.sub input{
+  margin: 0;
+  padding: 10px 30px;
+  padding-right: 50px;
+  outline: none;
+  border: none;
+  border-radius: 30px 0 0 30px;
+}
+.sub button{
+  
+  margin: 0;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 0 30px 30px 0;
+  background-color: #00C853;
+  color: white;
+  font-weight: 900;
+}
+.foot{
+  padding: 50px 100px;
+  background-color: black;
+  color: white;
+}
+.foot1{
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+.ft-txt{
+  line-height: 2;
+}
+.icon-txt{
+  display: flex;
+  padding: 10px;
+  gap: 20px
+  
+}
+
+.icon{
+  text-align: center;
+}
+.icon img{
+  padding: 10px;
+}
+.foot2{
+  display: flex;
+  justify-content: space-between;
+}
