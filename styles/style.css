@@ -9,7 +9,7 @@ html, body{
 .img-banner{
   margin: 100px;
   height: 400px;
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0)),  url('/img/Banner-Image.png');
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0)),  url('img/Banner-Image.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -49,7 +49,7 @@ html, body{
 .victor{
   margin: 100px;
   height: 400px;
-  background: linear-gradient( to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0)),  url('/img/Vectorrr.png');
+  background: linear-gradient( to right, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0)),  url('img/Vectorrr.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
