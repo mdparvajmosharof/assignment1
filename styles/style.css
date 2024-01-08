@@ -267,9 +267,7 @@ html, body{
   display: flex;
   padding: 10px;
   gap: 20px
-  
 }
-
 .icon{
   text-align: center;
 }
