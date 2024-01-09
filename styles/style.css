@@ -113,15 +113,6 @@ html, body{
   align-items: center;
   align-content: center;
 }
-/*.offer-new{
-  margin: 0 100px;
-  gap: 30px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  align-content: center;
-}
-
 .left h5{
   color: #00C853;
 }
@@ -132,7 +123,7 @@ html, body{
   font-size: 10px;
   font-weight: 200;
 }
-/*.midle > img{
+.midle > img{
   padding: 20px;
   max-width: 200px;
   border: 10px solid #00E676;
@@ -164,7 +155,7 @@ html, body{
   color: #00C853;
 }
 
-/*.off50-sct{
+.off50-sct{
   margin: 0 100px;
   height: 400px;
   position: relative;
