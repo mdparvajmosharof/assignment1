@@ -106,7 +106,7 @@ html, body{
   border-radius: 10px;
 }
 
-/*.offer{
+.offer{
   margin: 0 100px;
   gap: 30px;
   display: flex;
@@ -144,7 +144,7 @@ html, body{
 .right img{
   max-width: 70px;
 }
-.off50{
+/*.off50{
   margin: 100px 100px 50px;
   text-align: center;
 }
