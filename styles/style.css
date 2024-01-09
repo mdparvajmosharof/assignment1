@@ -105,7 +105,8 @@ html, body{
   border: none;
   border-radius: 10px;
 }
-.offer{
+
+/*.offer{
   margin: 0 100px;
   gap: 30px;
   display: flex;
@@ -266,7 +267,7 @@ html, body{
 .icon-txt{
   display: flex;
   padding: 10px;
-  gap: 20px
+  gap: 20px 
 }
 .icon{
   text-align: center;
